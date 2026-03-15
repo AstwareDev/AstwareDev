@@ -1,4 +1,7 @@
-<h1 align="center">AstwareDev</h1>
+<h1 align="center">
+  <img src="https://astwaredev.vercel.app/favicon.ico" width="32" alt="AstwareDev Logo" style="vertical-align: middle; margin-right: 10px;" />
+  AstwareDev
+</h1>
 
 <p align="center">
   <strong>Full-Stack Developer focused on building production-ready web, Android, and Windows applications.</strong>
