@@ -123,23 +123,9 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
 
 ---
 
-## Contact
+## Contacts
 
-<table>
-  <tr>
-    <td><strong>Portfolio</strong></td>
-    <td><a href="https://astwaredev.vercel.app/">astwaredev.vercel.app</a></td>
-  </tr>
-  <tr>
-    <td><strong>LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/astwaredev/">linkedin.com/in/astwaredev</a></td>
-  </tr>
-  <tr>
-    <td><strong>Email</strong></td>
-    <td><a href="mailto:astwaredev@gmail.com">astwaredev@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><strong>Discord</strong></td>
-    <td><a href="https://discord.com/users/1167003237963022388">discord.com/users/1167003237963022388</a></td>
-  </tr>
-</table>
+- **Portfolio:** [astwaredev.vercel.app](https://astwaredev.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/astwaredev](https://www.linkedin.com/in/astwaredev/)
+- **Email:** [astwaredev@gmail.com](mailto:astwaredev@gmail.com)
+- **Discord:** [discord.com/users/1167003237963022388](https://discord.com/users/1167003237963022388)
