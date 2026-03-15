@@ -49,7 +49,7 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
       <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tauri,electron" /><br/>
+      <img src="https://skillicons.dev/icons?i=tauri,electron,reactnative" /><br/>
       React Native
     </td>
     <td align="center">
