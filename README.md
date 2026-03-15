@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">AstwareDev</h1>
 
-<!--
-**AstwareDev/AstwareDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full-Stack Developer building production-ready web, Android, and Windows applications.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Focused on modern UI/UX, strong frontend engineering, and cross-platform product development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://astwaredev.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/astwaredev/">LinkedIn</a> •
+  <a href="mailto:astwaredev@gmail.com">Email</a> •
+  <a href="https://discord.com/users/1167003237963022388">Discord</a>
+</p>
+
+## About
+
+I build modern, production-ready applications across web, Android, and Windows. My work is focused on creating polished user experiences, writing clean frontend code, and developing products that are practical, scalable, and ready to ship.
+
+## Tech
+
+**Frontend:** Next.js, React, JavaScript, Tailwind CSS  
+**Cross-Platform:** React Native, Tauri, Electron-Vite  
+**Backend / Tools:** Node.js, MongoDB, Supabase, Git, Vercel, Figma, Lua
+
+## Selected Projects
+
+### Ashtarak Kat
+Catalyst Academy internship partnership project for Ashtarak Milk.  
+Built with Next.js, Tailwind CSS, Framer Motion, and Lucide React.  
+[Live Demo](https://ashtarakkat.vercel.app/)
+
+### MartinStar
+Internship project focused on modern interface design and polished frontend execution.  
+Built with Next.js, Tailwind CSS, Framer Motion, and Lucide React.  
+[Live Demo](https://martinstar.vercel.app/)
+
+## Strengths
+
+- Strong frontend development
+- Modern UI/UX thinking
+- Fast adaptation to new tools and workflows
+- Cross-platform mindset
+- Production-focused execution
+
+## Contact
+
+- [Portfolio](https://astwaredev.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/astwaredev/)
+- [Email](mailto:astwaredev@gmail.com)
+- [Discord](https://discord.com/users/1167003237963022388)
