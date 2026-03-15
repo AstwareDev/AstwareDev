@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://astwaredev.vercel.app/favicon.ico" width="28" alt="AstwareDev Logo" />
+  <img src="https://astwaredev.vercel.app/favicon.ico" width="40" alt="AstwareDev Logo" style="vertical-align: middle; margin-right: 10px;" />
   AstwareDev
 </h1>
 
 <p align="center">
-  Full-Stack Developer focused on building production-ready web, Android, and Windows applications.
+  <strong>Full-Stack Developer focused on building production-ready web, Android, and Windows applications.</strong>
 </p>
 
 <p align="center">
@@ -12,13 +12,18 @@
 </p>
 
 <p align="center">
-  <a href="https://astwaredev.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/astwaredev/">LinkedIn</a>
-  ·
-  <a href="mailto:astwaredev@gmail.com">Email</a>
-  ·
-  <a href="https://discord.com/users/1167003237963022388">Discord</a>
+  <a href="https://astwaredev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/astwaredev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:astwaredev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/1167003237963022388">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ---
@@ -138,10 +143,3 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
     <td><a href="https://discord.com/users/1167003237963022388">discord.com/users/1167003237963022388</a></td>
   </tr>
 </table>
-
-## Contact
-
-- **Portfolio:** [astwaredev.vercel.app](https://astwaredev.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/astwaredev](https://www.linkedin.com/in/astwaredev/)
-- **Email:** [astwaredev@gmail.com](mailto:astwaredev@gmail.com)
-- **Discord:** [discord.com/users/1167003237963022388](https://discord.com/users/1167003237963022388)
