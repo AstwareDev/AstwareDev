@@ -1,4 +1,4 @@
-<h1 align="center">AstwareDev</h1>
+<h1 align="center"><img src="https://astwaredev.vercel.app/favicon.ico"AstwareDev</h1>
 
 <p align="center">
   Full-Stack Developer building production-ready web, Android, and Windows applications.
