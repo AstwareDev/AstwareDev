@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://astwaredev.vercel.app/favicon.ico" width="40" alt="AstwareDev Logo" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://astwaredev.vercel.app/favicon.ico" width="32" alt="AstwareDev Logo" style="vertical-align: middle; margin-right: 10px;" />
   AstwareDev
 </h1>
 
