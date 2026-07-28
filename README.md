@@ -21,9 +21,6 @@
   <a href="mailto:astwaredev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/1167003237963022388">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 
 ---
@@ -114,72 +111,8 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
 
 ---
 
-## Selected Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ashtarakkat.vercel.app/">
-        <img src="https://astwaredev.vercel.app/_next/image?url=%2Fassets%2Fpreview_12.png&w=1920&q=75" alt="Ashtarak Kat Preview" />
-      </a>
-      <br /><br />
-      <strong>Ashtarak Kat</strong>
-      <br />
-      A modern website developed as part of a Catalyst Academy internship partnership project with Ashtarak Milk. Built with a strong emphasis on responsive design, clean presentation, and polished frontend execution.
-      <br /><br />
-      <strong>Stack:</strong> Next.js, Tailwind CSS, Framer Motion, Lucide React
-      <br />
-      <strong>Live:</strong> <a href="https://ashtarakkat.vercel.app/">Visit Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://martinstar.vercel.app/">
-        <img src="https://astwaredev.vercel.app/_next/image?url=%2Fassets%2Fpreview_2.png&w=1920&q=75" alt="MartinStar Preview" />
-      </a>
-      <br /><br />
-      <strong>MartinStar</strong>
-      <br />
-      A modern internship project focused on clean layouts, strong visual hierarchy, and smooth frontend interactions.
-      <br /><br />
-      <strong>Stack:</strong> Next.js, Tailwind CSS, Framer Motion, Lucide React
-      <br />
-      <strong>Live:</strong> <a href="https://martinstar.vercel.app/">Visit Project</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Focus
-
-<table>
-  <tr>
-    <td>Production-ready web applications</td>
-    <td>Strong frontend engineering</td>
-  </tr>
-  <tr>
-    <td>Cross-platform development for Android and Windows</td>
-    <td>Modern UI/UX and responsive design</td>
-  </tr>
-  <tr>
-    <td>Fast adaptation to new tools and workflows</td>
-    <td>Clean and practical product execution</td>
-  </tr>
-</table>
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AstwareDev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstwareDev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" />
-</p>
-
----
-
 ## Contacts
 
 - **Portfolio:** [astwaredev.vercel.app](https://astwaredev.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/astwaredev](https://www.linkedin.com/in/astwaredev/)
 - **Email:** [astwaredev@gmail.com](mailto:astwaredev@gmail.com)
-- **Discord:** [discord.com/users/1167003237963022388](https://discord.com/users/1167003237963022388)
