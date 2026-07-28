@@ -29,9 +29,20 @@
 
 I build modern, production-ready applications across web, Android, and Windows with a strong focus on frontend quality, responsive interfaces, and polished user experience.
 
-My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and Electron-Vite, supported by tools and platforms such as Node.js, MongoDB, Supabase, Git, Vercel, Figma, and Lua.
+*(Add one line here on experience level and availability — e.g. "Student developer, open to freelance/internship work" — recruiters look for this early.)*
+
+Full work experience and education history on my [portfolio](https://astwaredev.vercel.app/).
 
 ---
+
+---
+
+## Skills
+
+**Core:** Next.js · React · TypeScript · Tailwind CSS · Tauri
+
+**Also worked with:** React Native, Electron-Vite, Node.js, Vite, PHP, Python, Rust, Go, C#, Lua, MongoDB, Supabase, PostgreSQL, MySQL, Figma, Unity, Arduino
+
 <div align="center">
 
 <h4>LANGUAGES</h4>
@@ -111,8 +122,87 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
 
 ---
 
-## Contacts
+## Pinned Open-Source Projects
 
-- **Portfolio:** [astwaredev.vercel.app](https://astwaredev.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/astwaredev](https://www.linkedin.com/in/astwaredev/)
-- **Email:** [astwaredev@gmail.com](mailto:astwaredev@gmail.com)
+A few of my projects on GitHub — see my [portfolio](https://astwaredev.vercel.app/) for the complete collection of work.
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AstwareDev/Tide/main/.github/preview.png" width="600" alt="Tide preview"/>
+</p>
+
+<h3 align="center"><a href="https://github.com/AstwareDev/Tide">Tide</a></h3>
+
+<p align="center">An AI-powered Gmail client — a fast, keyboard-driven inbox with background agents that label, archive, and delete emails on your behalf using Gemini.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-Vercel%20KV-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel KV"/>
+  <img src="https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+</p>
+
+> Single-user demo deployment — see the repo README for setup instructions to run it against your own Gmail.
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Add a screenshot to the repo (e.g. .github/preview.png), then uncomment:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AstwareDev/Apex-Overdrive/main/.github/preview.png" width="600" alt="Apex Overdrive preview"/>
+</p>
+-->
+
+<h3 align="center"><a href="https://github.com/AstwareDev/Apex-Overdrive">Apex Overdrive</a> — <a href="https://apex-overdrive-tumo.netlify.app/">Live Demo</a></h3>
+
+<p align="center">A browser-based 3D racing game built during a TUMO "Code Smarter with AI" workshop.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Add a screenshot to the repo (e.g. .github/preview.png), then uncomment:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AstwareDev/Aether/main/.github/preview.png" width="600" alt="Aether preview"/>
+</p>
+-->
+
+<h3 align="center"><a href="https://github.com/AstwareDev/Aether">Aether</a></h3>
+
+<p align="center">A lightweight code editor built from scratch with Tauri — file explorer, command palette, markdown preview, embedded draw.io diagramming, git source control, workspace search, and Cursor-style inline AI editing, at ~7MB. First project built TypeScript-first.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="Tauri"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+</p>
+
+> Active work in progress — see the repo README for current feature status and roadmap.
+
+<br/>
+
+---
+
+<br/>
+
+<h3 align="center">Luxen</h3>
+
+<p align="center">A PHP e-commerce site — first PHP project, built during a TUMO workshop.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+> README in progress — link coming soon.
+
+---
