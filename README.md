@@ -58,7 +58,7 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/expo/000000" width="40" height="40" alt="Expo"/> &nbsp;
+  <img src="/assets/expo.svg" width="40" height="40" alt="Expo"/> &nbsp;
   <img src="/assets/expressdotjs.svg" width="40" height="40" alt="Express"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="40" height="40" alt="Tauri"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"/>
@@ -104,7 +104,7 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
 
 <h4>DESIGN & CREATIVE</h4>
 <p>
-  <img src="https://cdn.simpleicons.org/photopea/18A0FB" width="40" height="40" alt="Photopea"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/photopea/18a497" width="40" height="40" alt="Photopea"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/> &nbsp;
   <img src="https://cdn.simpleicons.org/tinkercad/EC1C24" width="40" height="40" alt="Tinkercad"/> &nbsp;
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" height="40" alt="Draw.io"/> &nbsp;
