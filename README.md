@@ -52,7 +52,7 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
       <img src="https://skillicons.dev/icons?i=tauri,electron" /><br/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,git,vercel,figma,lua,python,flask" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,git,vercel,figma,lua,python,go,rust" />
     </td>
   </tr>
 </table>
