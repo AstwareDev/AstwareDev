@@ -31,7 +31,7 @@
 
 I build modern, production-ready applications across web, Android, and Windows with a strong focus on frontend quality, responsive interfaces, and polished user experience.
 
-*(Add one line here on experience level and availability — e.g. "Student developer, open to freelance/internship work" — recruiters look for this early.)*
+Currently an intern Full-Stack Web Engineer for Armenian Dairy Products Company Ashtarak Kat. Open to freelance work.
 
 Full work experience and education history on my [portfolio](https://astwaredev.vercel.app/).
 
