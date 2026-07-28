@@ -106,7 +106,7 @@ My core stack includes Next.js, React, Tailwind CSS, React Native, Tauri, and El
 <p>
   <img src="https://cdn.simpleicons.org/photopea/18a497" width="40" height="40" alt="Photopea"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/tinkercad/EC1C24" width="40" height="40" alt="Tinkercad"/> &nbsp;
+  <img src="/assets/logo-tinkercad-256.png" width="40" height="40" alt="Tinkercad"/> &nbsp;
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" height="40" alt="Draw.io"/> &nbsp;
 </p>
 
