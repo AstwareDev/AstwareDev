@@ -4,8 +4,10 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer focused on building production-ready web, Android, and Windows applications.</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="800"/>
 </p>
+
+<h3 align="center">Full-Stack Developer focused on building production-ready web, Android, and Windows applications.</h3>
 
 <p align="center">
   Strong frontend execution, modern UI/UX, and cross-platform product development.
@@ -21,10 +23,6 @@
   <a href="mailto:astwaredev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
 </p>
 
 ---
