@@ -47,7 +47,7 @@ Full work experience and education history on my [portfolio](https://astwaredev.
 
 <div align="center">
 
-<h4>LANGUAGES</h4>
+<h3>LANGUAGES</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> &nbsp;
@@ -64,7 +64,7 @@ Full work experience and education history on my [portfolio](https://astwaredev.
 
 <br/>
 
-<h4>FRAMEWORKS</h4>
+<h3>FRAMEWORKS</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/> &nbsp;
@@ -76,7 +76,7 @@ Full work experience and education history on my [portfolio](https://astwaredev.
 
 <br/>
 
-<h4>LIBRARIES & BUILD TOOLS</h4>
+<h3>LIBRARIES & BUILD TOOLS</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/> &nbsp;
@@ -88,7 +88,7 @@ Full work experience and education history on my [portfolio](https://astwaredev.
 
 <br/>
 
-<h4>DATABASES</h4>
+<h3>DATABASES</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/> &nbsp;
   <img src="https://cdn.simpleicons.org/neon/02E2AC" width="40" height="40" alt="Neon"/> &nbsp;
@@ -99,7 +99,7 @@ Full work experience and education history on my [portfolio](https://astwaredev.
 
 <br/>
 
-<h4>DEV TOOLS & PLATFORMS</h4>
+<h3>DEV TOOLS & PLATFORMS</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> &nbsp;
   <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub"/> &nbsp;
@@ -112,7 +112,7 @@ Full work experience and education history on my [portfolio](https://astwaredev.
 
 <br/>
 
-<h4>DESIGN & CREATIVE</h4>
+<h3>DESIGN & CREATIVE</h3>
 <p>
   <img src="https://cdn.simpleicons.org/photopea/18a497" width="40" height="40" alt="Photopea"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/> &nbsp;
