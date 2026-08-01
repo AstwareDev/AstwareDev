@@ -129,44 +129,15 @@ A few of my projects on GitHub — see my [portfolio](https://astwaredev.vercel.
 <br/>
 
 <p align="center">
-  <a href="https://github.com/AstwareDev/Tide">
-  <img src="/assets/TideCard.png" width="400" alt="Tide preview"/>
-  </a>
-
   <a href="https://github.com/AstwareDev/Aether">
-  <img src="/assets/AetherCard.png" width="400" alt="Aether IDE preview"/>
+  <img src="/assets/AetherIDECard.png" width="350" alt="Aether IDE preview"/>
+  </a>
+
+  <a href="https://github.com/AstwareDev/Tide">
+  <img src="/assets/TideCard.png" width="350" alt="Tide preview"/>
   </a>
 </p>
 
 <br/>
-
----
-
-<br/>
-
-<h3 align="center"><a href="https://github.com/AstwareDev/Apex-Overdrive">Apex Overdrive</a> — <a href="https://apex-overdrive-tumo.netlify.app/">Live Demo</a></h3>
-
-<p align="center">A browser-based 3D racing game built during a TUMO "Code Smarter with AI" workshop.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<h3 align="center">Luxen</h3>
-
-<p align="center">A PHP e-commerce site — first PHP project, built during a TUMO workshop.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-> README in progress — link coming soon.
 
 ---
