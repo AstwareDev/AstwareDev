@@ -131,20 +131,10 @@ A few of my projects on GitHub — see my [portfolio](https://astwaredev.vercel.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AstwareDev/Tide/main/.github/preview.png" width="600" alt="Tide preview"/>
+  <a href="https://github.com/AstwareDev/Tide">
+  <img src="/assets/TideCard.png" width="400" alt="Tide preview"/>
+  </a>
 </p>
-
-<h3 align="center"><a href="https://github.com/AstwareDev/Tide">Tide</a></h3>
-
-<p align="center">An AI-powered Gmail client — a fast, keyboard-driven inbox with background agents that label, archive, and delete emails on your behalf using Gemini.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-Vercel%20KV-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel KV"/>
-  <img src="https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-</p>
-
-> Single-user demo deployment — see the repo README for setup instructions to run it against your own Gmail.
 
 <br/>
 
