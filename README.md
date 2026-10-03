@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://astwaredev.vercel.app/">
+  <a href="https://astware.dev/">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/astwaredev/">
@@ -33,7 +33,7 @@ I build modern, production-ready applications across web, Android, and Windows w
 
 Currently an intern Full-Stack Web Engineer for Armenian Dairy Products Company Ashtarak Kat. Open to freelance work.
 
-Full work experience and education history on my [portfolio](https://astwaredev.vercel.app/).
+Full work experience and education history on my [portfolio](https://astware.dev/).
 
 ---
 
@@ -124,7 +124,7 @@ Full work experience and education history on my [portfolio](https://astwaredev.
 
 ## Pinned Open-Source Projects
 
-A few of my projects on GitHub — see my [portfolio](https://astwaredev.vercel.app/) for the complete collection of work.
+A few of my projects on GitHub — see my [portfolio](https://astware.dev/) for the complete collection of work.
 
 <br/>
 
